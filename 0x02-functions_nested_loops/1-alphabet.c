@@ -2,6 +2,7 @@
 
 /**
  * main - main block
+ * print_alphabet - Make the alphabet
  * Return: 0
  */
 
