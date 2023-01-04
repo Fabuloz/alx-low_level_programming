@@ -4,8 +4,7 @@
  * _sqrt_recursion - return the natural square root of a number
  * @s: int number
  * Return: If no natural square root, retur -1. Else return natural
- */
- 
+ */ 
 int _sqrt_recursion(int n)
 {
 	return (halp(n, 1));
