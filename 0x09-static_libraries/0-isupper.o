@@ -1,7 +1,0 @@
-#include "main.h"
-
-/**
- *_isupper: Print upper cases
- */
- 
-int _isupper(int c);
