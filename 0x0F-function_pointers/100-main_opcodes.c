@@ -1,6 +1,6 @@
 /*
  * File: 100-main_opcodes.c
- * Auth: Brennan D Baraban
+ * Auth: Emmanuel A Adeniji
  */
 
 #include <stdio.h>
