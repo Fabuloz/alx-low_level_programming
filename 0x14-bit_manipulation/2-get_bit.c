@@ -1,4 +1,4 @@
-/*
+/**
  * File: 2-get_bit.c
  * Auth: Emmanuel A Adeniji
  */
